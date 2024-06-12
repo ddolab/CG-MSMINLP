@@ -1,6 +1,22 @@
 # Column generation for multistage stochastic mixed-integer nonlinear programs with discrete state variables
 
-This repository contains code for the following case studies used in the paper *Column generation for multistage stochastic mixed-integer nonlinear programs with discrete state variables*:
+This repository contains code for the case studies used in the paper *Column generation for multistage stochastic mixed-integer nonlinear programs with discrete state variables* (available [here](https://arxiv.org/abs/2406.05052)).
+
+## Citation
+```
+@misc{rathi2024column,
+      title={Column generation for multistage stochastic mixed-integer nonlinear programs with discrete state variables}, 
+      author={Tushar Rathi and Benjamin P. Riley and Angela Flores-Quiroz and Qi Zhang},
+      year={2024},
+      eprint={2406.05052},
+      archivePrefix={arXiv},
+      primaryClass={math.OC}
+}
+```
+
+## Case Studies
+The following case studies are used in the paper:
+
 - Multistage blending [`Blending/`] and 
 - Mobile generator routing problem [`OPF/`] 
 
